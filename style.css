@@ -1,1 +1,30 @@
 /* ваше решение здесь */
+#login 
+{
+    background-color: #778D45;
+    color: #fff;
+    margin: 20px;
+    width: 130px;
+    height: 80px;
+    float: left;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+#registration
+{
+    background-color: #AEC09A;
+    color: #fff;
+    border-radius: 10px;
+    margin: 20px;
+    width: 200px;
+    display: block;
+    float: left;
+    text-align:center;
+    padding: 30px;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
