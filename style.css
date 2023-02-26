@@ -12,6 +12,7 @@
     font-size: 20px;
     font-family:Arial, Helvetica, sans-serif;
     
+    
 }
 #registration
 {
@@ -20,11 +21,20 @@
     border-radius: 10px;
     margin: 20px;
     width: 200px;
-    display: block;
+    display:block;
+    cursor:default;
     float: left;
     text-align:center;
     padding: 30px;
     font-size: 20px;
     font-family:Arial, Helvetica, sans-serif;
     
+}
+#login:hover
+{
+    color: black;
+}
+#registration:hover
+{
+    color:black;
 }
